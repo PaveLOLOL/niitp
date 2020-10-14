@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class Element{
+class Element {
 public:
 private:
     string poligon_centaer;
@@ -12,9 +12,9 @@ private:
     string type;
 };
 
-class Obj{
+class Obj {
 public:
-    vector<Element>array{} ;
+    vector<Element> array;
 private:
 };
 
