@@ -12,7 +12,7 @@ private:
     string type;
 };
 
-class Obgj {
+class Obj {
 public:
     vector<Element> array;
 private:
@@ -20,5 +20,5 @@ private:
 
 int main()
 {
-
+    // some comment
 }
