@@ -12,7 +12,7 @@ private:
     string type;
 };
 
-class Obj {
+class Obgj {
 public:
     vector<Element> array;
 private:
